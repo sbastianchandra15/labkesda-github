@@ -1,0 +1,903 @@
+<?xml version="1.0"?>
+<checkstyle version="1.3.0">
+  <file name="master\controllers\Laboratorium.php">
+    <error line="9" severity="error" message="No summary for class \Laboratorium" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="46" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="master\controllers\Lokasi.php">
+    <error line="9" severity="error" message="No summary for class \Lokasi" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="43" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="master\controllers\xxxSupplier.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Supplier" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="14" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="69" severity="error" message="No summary for method add_file()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="96" severity="error" message="No summary for method add_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="171" severity="error" message="No summary for method remove_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="190" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="197" severity="error" message="Argument $id is missing from the Docblock of delete" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="197" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="206" severity="error" message="No summary for method delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="211" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="211" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="264" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="270" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="275" severity="error" message="No summary for method detail_items_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="281" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="281" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\models\Parameter_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Parameter_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="7" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="Argument $id is missing from the Docblock of get_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="19" severity="error" message="No summary for method get_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="26" severity="error" message="Argument $kd is missing from the Docblock of get_detail_by_lab" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="26" severity="error" message="No summary for method get_detail_by_lab()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="32" severity="error" message="No summary for method get_all_parameter()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="39" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="61" severity="error" message="Argument $periode is missing from the Docblock of get_no_doc" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="61" severity="error" message="No summary for method get_no_doc()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="68" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="89" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\project\project_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\barang\barang_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_maknum_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Users.php">
+    <error line="9" severity="error" message="No summary for class \Users" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="60" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="82" severity="error" message="Argument $id is missing from the Docblock of permission" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_klinik_print.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\users\users_permission.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\items_category\items_category_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\users\users_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\controllers\Hasil_lingkungan.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Hasil_lingkungan" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="17" severity="error" message="Argument $id is missing from the Docblock of update" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="17" severity="error" message="No summary for method update()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="32" severity="error" message="No summary for method update_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="38" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="38" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="46" severity="error" message="Argument $id is missing from the Docblock of cetak" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="46" severity="error" message="No summary for method cetak()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\mutasi\mutasi_detail_popup.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Parameter.php">
+    <error line="9" severity="error" message="No summary for class \Parameter" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="45" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="master\controllers\xxxItems.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Items" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="14" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="28" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="33" severity="error" message="Argument $id is missing from the Docblock of delete" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="33" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="42" severity="error" message="No summary for method delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="48" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="48" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="58" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="63" severity="error" message="No summary for method form_act_in_pr()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\models\Users_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Users_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="Argument $usr is missing from the Docblock of get_user" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="8" severity="error" message="Argument $pwd is missing from the Docblock of get_user" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="8" severity="error" message="No summary for method get_user()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="16" severity="error" message="Argument $usr is missing from the Docblock of detail_user" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="16" severity="error" message="Argument $pwd is missing from the Docblock of detail_user" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="16" severity="error" message="No summary for method detail_user()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="22" severity="error" message="No summary for method get_user_id()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="27" severity="error" message="Argument $status is missing from the Docblock of aktifitas_user" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="27" severity="error" message="No summary for method aktifitas_user()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="38" severity="error" message="No summary for method all_user()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="42" severity="error" message="No summary for method user_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="50" severity="error" message="No summary for method act_delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="57" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="91" severity="error" message="Argument $id is missing from the Docblock of data_user" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="91" severity="error" message="No summary for method data_user()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="96" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="135" severity="error" message="No summary for method act_permission()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="156" severity="error" message="Argument $id is missing from the Docblock of delete_permission" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="156" severity="error" message="No summary for method delete_permission()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="167" severity="error" message="Argument $id is missing from the Docblock of delete_permission_cp" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="167" severity="error" message="No summary for method delete_permission_cp()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="179" severity="error" message="Argument $id is missing from the Docblock of delete_permission_group" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="179" severity="error" message="No summary for method delete_permission_group()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="190" severity="error" message="Argument $user_id is missing from the Docblock of insert_permission" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="190" severity="error" message="Argument $menu_id is missing from the Docblock of insert_permission" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="190" severity="error" message="No summary for method insert_permission()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="196" severity="error" message="Argument $user_id is missing from the Docblock of insert_permission_cp" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="196" severity="error" message="Argument $company_id is missing from the Docblock of insert_permission_cp" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="196" severity="error" message="No summary for method insert_permission_cp()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="202" severity="error" message="No summary for method act_password()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="218" severity="error" message="Argument $id is missing from the Docblock of permission_user_group" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="218" severity="error" message="No summary for method permission_user_group()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="225" severity="error" message="Argument $id is missing from the Docblock of permission_user_group_login" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="225" severity="error" message="No summary for method permission_user_group_login()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\metode\metode_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Manajemen.php">
+    <error line="9" severity="error" message="No summary for class \Manajemen" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="43" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="master\views\warehouse\warehouse_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\dokter\dokter_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\users\users_password.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Kat_barang.php">
+    <error line="9" severity="error" message="No summary for class \Kat_barang" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="44" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="master\controllers\xxxProject.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Project" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="14" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="23" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="28" severity="error" message="No summary for method delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="34" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="34" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="39" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\models\Katbarang_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Katbarang_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="13" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="20" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="34" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="41" severity="error" message="Argument $id is missing from the Docblock of detail_katkategori" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="41" severity="error" message="No summary for method detail_katkategori()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="46" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\mutasi\mutasi_masuk_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\controllers\Mutasi_keluar.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Mutasi_keluar" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="13" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="18" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="38" severity="error" message="No summary for method add_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="76" severity="error" message="No summary for method remove_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="94" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="101" severity="error" message="No summary for method approve()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="114" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="119" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="119" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="160" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="166" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="171" severity="error" message="No summary for method detail_items_mutasi()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="177" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="177" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="185" severity="error" message="No summary for method get_barang()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\laboratorium\laboratorium_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_maknum_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\Metode_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Metode_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="17" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="55" severity="error" message="No summary for method max_id_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="61" severity="error" message="No summary for method max_id()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="67" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="73" severity="error" message="Argument $id is missing from the Docblock of metode_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="73" severity="error" message="No summary for method metode_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="79" severity="error" message="Argument $id is missing from the Docblock of metode_header" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="79" severity="error" message="No summary for method metode_header()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="85" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="139" severity="error" message="No summary for method kind_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="165" severity="error" message="Argument $id is missing from the Docblock of detail_supplier" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="165" severity="error" message="No summary for method detail_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="172" severity="error" message="Argument $id is missing from the Docblock of detail_items_supplier" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="172" severity="error" message="No summary for method detail_items_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="178" severity="error" message="Argument $id is missing from the Docblock of jumlah_items_supplier" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="178" severity="error" message="No summary for method jumlah_items_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="184" severity="error" message="No summary for method get_supplier_id()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="189" severity="error" message="Argument $tahun is missing from the Docblock of get_nomor_dok" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="189" severity="error" message="No summary for method get_nomor_dok()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_lingkungan_print.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\Users_group_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Users_group_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_user_group()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\controllers\xxxWarehouse.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Warehouse" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="14" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="23" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="28" severity="error" message="No summary for method delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="34" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="34" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="39" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\manajemen\manajemen_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_lingkungan_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_lingkungan_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\xxxExport_php.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="30" severity="error" message="No summary for class \Export_php" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="32" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="40" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="45" severity="error" message="No summary for method export_data()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\dokter\dokter_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\barang\barang_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_klinik_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Sampel.php">
+    <error line="9" severity="error" message="No summary for class \Sampel" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="45" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_klinik_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\mutasi\mutasi_keluar_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\supplier\supplier_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\controllers\Pendaftaran_lingkungan.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Pendaftaran_lingkungan" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="17" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="42" severity="error" message="No summary for method add_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="72" severity="error" message="No summary for method remove_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="90" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="97" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="97" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="132" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="138" severity="error" message="No summary for method approve()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="151" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="156" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="161" severity="error" message="No summary for method detail_items_mutasi()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="167" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="167" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="175" severity="error" message="No summary for method get_barang()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="211" severity="error" message="Argument $id is missing from the Docblock of cetak" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="211" severity="error" message="No summary for method cetak()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\barang\barang_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\supplier\supplier_edit20180515.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\supplier\supplier_form20180515.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_klinik_print.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\xxxItems_category_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Items_category_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_category()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="15" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="30" severity="error" message="No summary for method act_delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="37" severity="error" message="Argument $id is missing from the Docblock of detail_category" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="37" severity="error" message="No summary for method detail_category()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="42" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\hasil\pendaftaran_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_klinik_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\lokasi\lokasi_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\laboratorium\laboratorium_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\supplier\supplier_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_lingkungan_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\mutasi\mutasi_keluar_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\xxxItems_category.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Items_category" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="14" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="23" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="28" severity="error" message="No summary for method delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="34" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="34" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="39" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\controllers\Mutasi_masuk.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Mutasi_masuk" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="13" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="18" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="38" severity="error" message="No summary for method add_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="76" severity="error" message="No summary for method remove_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="94" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="101" severity="error" message="No summary for method approve()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="114" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="119" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="119" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="160" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="166" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="171" severity="error" message="No summary for method detail_items_mutasi()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="177" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="177" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="185" severity="error" message="No summary for method stok_barang()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\items_category\items_category_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\controllers\Pendaftaran.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Pendaftaran" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="13" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="18" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="42" severity="error" message="No summary for method add_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="80" severity="error" message="No summary for method remove_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="98" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="105" severity="error" message="No summary for method approve()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="118" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="123" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="123" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="164" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="170" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="175" severity="error" message="No summary for method detail_items_mutasi()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="181" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="181" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="189" severity="error" message="No summary for method get_barang()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\models\Lokasi_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Lokasi_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="7" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="Argument $id is missing from the Docblock of get_all_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="19" severity="error" message="No summary for method get_all_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="26" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="39" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="53" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\laboratorium\laboratorium_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\kat_barang\kat_barang_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\users\login_xxx.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\parameter\parameter_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\supplier\supplier_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\models\Mutasi_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Mutasi_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="17" severity="error" message="No summary for method get_all_masuk()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="24" severity="error" message="No summary for method act_form_masuk()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="62" severity="error" message="No summary for method max_id()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="67" severity="error" message="Argument $id is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="67" severity="error" message="Argument $periode is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="67" severity="error" message="No summary for method max_nomor()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="72" severity="error" message="No summary for method max_id_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="77" severity="error" message="Argument $id is missing from the Docblock of update_status" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="77" severity="error" message="Argument $approve is missing from the Docblock of update_status" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="77" severity="error" message="No summary for method update_status()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="81" severity="error" message="Argument $id is missing from the Docblock of stok" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="81" severity="error" message="No summary for method stok()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="91" severity="error" message="Argument $id is missing from the Docblock of mutasi_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="91" severity="error" message="No summary for method mutasi_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="99" severity="error" message="Argument $id is missing from the Docblock of mutasi_header" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="99" severity="error" message="No summary for method mutasi_header()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="105" severity="error" message="No summary for method act_edit_masuk()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="144" severity="error" message="No summary for method get_all_keluar()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="151" severity="error" message="Argument $id is missing from the Docblock of stok_barang" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="151" severity="error" message="No summary for method stok_barang()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="156" severity="error" message="No summary for method act_form_keluar()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="193" severity="error" message="Argument $id is missing from the Docblock of stok_keluar" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="193" severity="error" message="No summary for method stok_keluar()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="204" severity="error" message="Argument $start is missing from the Docblock of get_all_barang" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="204" severity="error" message="Argument $length is missing from the Docblock of get_all_barang" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="204" severity="error" message="Argument $search is missing from the Docblock of get_all_barang" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="204" severity="error" message="Argument $id is missing from the Docblock of get_all_barang" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="204" severity="error" message="No summary for method get_all_barang()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="219" severity="error" message="Argument $start is missing from the Docblock of get_count_display" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="219" severity="error" message="Argument $length is missing from the Docblock of get_count_display" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="219" severity="error" message="Argument $search is missing from the Docblock of get_count_display" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="219" severity="error" message="Argument $id is missing from the Docblock of get_count_display" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="219" severity="error" message="No summary for method get_count_display()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="230" severity="error" message="Argument $id is missing from the Docblock of get_count" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="230" severity="error" message="No summary for method get_count()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\dokter\dokter_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\Dokter_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Dokter_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="7" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="Argument $id is missing from the Docblock of get_all_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="19" severity="error" message="No summary for method get_all_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="26" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="43" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="61" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\hasil\pendaftaran_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_klinik_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\barang\items_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\kat_barang\kat_barang_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\controllers\Pendaftaran_maknum.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Pendaftaran_maknum" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="13" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="18" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="39" severity="error" message="No summary for method add_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="69" severity="error" message="No summary for method remove_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="87" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="94" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="94" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="128" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="148" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="153" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="158" severity="error" message="No summary for method detail_items_mutasi()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="164" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="164" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="172" severity="error" message="Argument $id is missing from the Docblock of cetak" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="172" severity="error" message="No summary for method cetak()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\barang\barang_tes.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\models\Hasil_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Hasil_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="22" severity="error" message="No summary for method get_all_klinik()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="36" severity="error" message="No summary for method get_all_lingkungan()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="50" severity="error" message="No summary for method get_all_maknum()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="63" severity="error" message="No summary for method get_all_masuk()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="70" severity="error" message="Argument $kd_lab is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="70" severity="error" message="Argument $m is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="70" severity="error" message="Argument $y is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="70" severity="error" message="No summary for method max_nomor()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="78" severity="error" message="Argument $id is missing from the Docblock of header_hasil" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="78" severity="error" message="No summary for method header_hasil()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="84" severity="error" message="Argument $id is missing from the Docblock of detail_hasil" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="84" severity="error" message="No summary for method detail_hasil()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="91" severity="error" message="Argument $id is missing from the Docblock of detail_hasil_par" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="91" severity="error" message="No summary for method detail_hasil_par()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="98" severity="error" message="No summary for method update_lingkungan_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="112" severity="error" message="No summary for method update_maknum_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="126" severity="error" message="No summary for method update_klinik_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_maknum_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\xxxWarehouse_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Warehouse_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_warehouse()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="15" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="36" severity="error" message="No summary for method act_delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="43" severity="error" message="Argument $id is missing from the Docblock of detail_warehouse" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="43" severity="error" message="No summary for method detail_warehouse()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="48" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\controllers\Hasil_maknum.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Hasil_maknum" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="17" severity="error" message="Argument $id is missing from the Docblock of update" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="17" severity="error" message="No summary for method update()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="32" severity="error" message="No summary for method update_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="38" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="38" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="46" severity="error" message="Argument $id is missing from the Docblock of cetak" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="46" severity="error" message="No summary for method cetak()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\models\xxxProject_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Project_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_project()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="15" severity="error" message="No summary for method project_budget()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="21" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="40" severity="error" message="No summary for method act_delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="47" severity="error" message="Argument $id is missing from the Docblock of detail_project" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="47" severity="error" message="No summary for method detail_project()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="52" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_maknum_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\mutasi\mutasi_masuk_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_klinik_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\warehouse\warehouse_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\Sampel_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Sampel_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="7" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="Argument $id is missing from the Docblock of get_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="19" severity="error" message="No summary for method get_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="26" severity="error" message="No summary for method get_all_sampel()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="33" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="50" severity="error" message="Argument $periode is missing from the Docblock of get_no_doc" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="50" severity="error" message="No summary for method get_no_doc()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="57" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="73" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\project\project_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\manajemen\manajemen_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\lokasi\lokasi_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\items_category\items_category_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\metode\metode_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\mutasi\mutasi_masuk_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\barang\items_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\sampel\sampel_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\metode\metode_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\Barang_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="15" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="29" severity="error" message="Argument $id is missing from the Docblock of get_all_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="68" severity="error" message="Argument $periode is missing from the Docblock of get_no_doc" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="68" severity="error" message="No summary for method get_no_doc()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="75" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="92" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="114" severity="error" message="Argument $id is missing from the Docblock of detail_items" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="114" severity="error" message="No summary for method detail_items()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="120" severity="error" message="No summary for method items_count()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\users\users_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\project\project_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\Laboratorium_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Laboratorium_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="7" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="Argument $id is missing from the Docblock of get_all_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="19" severity="error" message="No summary for method get_all_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="26" severity="error" message="No summary for method get_all_parameter()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="33" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="49" severity="error" message="Argument $periode is missing from the Docblock of get_no_doc" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="49" severity="error" message="No summary for method get_no_doc()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="56" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="72" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_maknum_print.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Barang.php">
+    <error line="73" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="105" severity="error" message="No summary for method tes()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="113" severity="error" message="No summary for method tes_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_klinik_popup.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\models\Pendaftaran_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Pendaftaran_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="22" severity="error" message="No summary for method get_all_klinik()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="36" severity="error" message="No summary for method get_all_lingkungan()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="50" severity="error" message="No summary for method get_all_maknum()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="63" severity="error" message="No summary for method get_all_masuk()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="70" severity="error" message="Argument $kd_lab is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="70" severity="error" message="Argument $m is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="70" severity="error" message="Argument $y is missing from the Docblock of max_nomor" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="70" severity="error" message="No summary for method max_nomor()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="76" severity="error" message="No summary for method act_form_klinik()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="149" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="155" severity="error" message="No summary for method act_form_lingkungan()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="228" severity="error" message="No summary for method act_form_maknum()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="299" severity="error" message="Argument $id is missing from the Docblock of header_pendaftaran" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="299" severity="error" message="No summary for method header_pendaftaran()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="304" severity="error" message="Argument $id is missing from the Docblock of detail_pendaftaran" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="304" severity="error" message="No summary for method detail_pendaftaran()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="311" severity="error" message="Argument $id is missing from the Docblock of detail_pendaftaran_par" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="311" severity="error" message="No summary for method detail_pendaftaran_par()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="318" severity="error" message="Argument $id is missing from the Docblock of detail_parameter_pendaftaran" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="318" severity="error" message="No summary for method detail_parameter_pendaftaran()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="324" severity="error" message="Argument $id is missing from the Docblock of get_metode_id" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="324" severity="error" message="No summary for method get_metode_id()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="329" severity="error" message="No summary for method act_edit_maknum()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="419" severity="error" message="No summary for method act_edit_lengkungan()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="511" severity="error" message="No summary for method act_edit_klinik()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\controllers\xxxMaster_api.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Master_api" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="11" severity="error" message="No summary for method get_items_by_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="48" severity="error" message="No summary for method get_all_items()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_klinik_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\xxxSupplier_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Supplier_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="16" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="76" severity="error" message="Argument $id is missing from the Docblock of act_delete" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="76" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="82" severity="error" message="No summary for method act_delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="88" severity="error" message="Argument $id is missing from the Docblock of detail_supplier" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="88" severity="error" message="No summary for method detail_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="95" severity="error" message="Argument $id is missing from the Docblock of detail_items_supplier" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="95" severity="error" message="No summary for method detail_items_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="101" severity="error" message="Argument $id is missing from the Docblock of jumlah_items_supplier" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="101" severity="error" message="No summary for method jumlah_items_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="107" severity="error" message="No summary for method get_supplier_id()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="112" severity="error" message="Argument $tahun is missing from the Docblock of get_nomor_dok" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="112" severity="error" message="No summary for method get_nomor_dok()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="117" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="170" severity="error" message="No summary for method kind_supplier()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_maknum_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\warehouse\warehouse_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\supplier\supplier_detail_popup.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\sampel\sampel_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_lingkungan_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\controllers\Hasil_klinik.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Hasil_klinik" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="17" severity="error" message="Argument $id is missing from the Docblock of update" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="17" severity="error" message="No summary for method update()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="32" severity="error" message="No summary for method update_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="38" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="38" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="46" severity="error" message="Argument $id is missing from the Docblock of cetak" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="46" severity="error" message="No summary for method cetak()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\manajemen\manajemen_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_maknum_edit.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Metode.php">
+    <error line="9" severity="error" message="No summary for class \Metode" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="124" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="165" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="179" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="179" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\models\Manajemen_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Manajemen_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="7" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="12" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="19" severity="error" message="Argument $id is missing from the Docblock of get_all_detail" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="19" severity="error" message="No summary for method get_all_detail()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="26" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="42" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="59" severity="error" message="No summary for method act_delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\views\users\users_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\hasil\hasil_maknum_print.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\sampel\sampel_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_lingkungan_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\kat_barang\kat_barang_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\lokasi\lokasi_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_lingkungan_popup.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\models\xxxMaster_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Master_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method get_items_kind()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="15" severity="error" message="No summary for method get_user_level()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="22" severity="error" message="No summary for method get_user_level_approve()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="29" severity="error" message="No summary for method get_items_unit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="36" severity="error" message="No summary for method get_category()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="43" severity="error" message="No summary for method get_dept_authorized()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="50" severity="error" message="Argument $data is missing from the Docblock of config" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="50" severity="error" message="No summary for method config()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="master\models\Satuan_model.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="5" severity="error" message="No summary for class \Satuan_model" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="8" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="13" severity="error" message="No summary for method get_all()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="20" severity="error" message="No summary for method act_form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="39" severity="error" message="No summary for method act_delete_js()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="46" severity="error" message="Argument $id is missing from the Docblock of detail_project" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="46" severity="error" message="No summary for method detail_project()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="51" severity="error" message="No summary for method act_edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\mutasi\mutasi_keluar_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\barang\items_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\parameter\parameter_form.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\controllers\Dokter.php">
+    <error line="9" severity="error" message="No summary for class \Dokter" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="11" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="43" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+  </file>
+  <file name="transaksi\controllers\Pendaftaran_klinik.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+    <error line="4" severity="error" message="No summary for class \Pendaftaran_klinik" source="phpDocumentor.file.PPC:ERR-50005"/>
+    <error line="6" severity="error" message="No summary for method __construct()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="13" severity="error" message="No summary for method index()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="18" severity="error" message="No summary for method form()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="43" severity="error" message="No summary for method add_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="73" severity="error" message="No summary for method remove_item()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="91" severity="error" message="No summary for method form_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="98" severity="error" message="Argument $id is missing from the Docblock of edit" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="98" severity="error" message="No summary for method edit()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="132" severity="error" message="No summary for method edit_act()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="138" severity="error" message="No summary for method approve()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="151" severity="error" message="No summary for method delete()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="156" severity="error" message="No summary for method reset()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="161" severity="error" message="No summary for method detail_items_mutasi()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="167" severity="error" message="Argument $id is missing from the Docblock of view_popup" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="167" severity="error" message="No summary for method view_popup()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="176" severity="error" message="No summary for method get_barang()" source="phpDocumentor.file.PPC:ERR-50008"/>
+    <error line="212" severity="error" message="Argument $id is missing from the Docblock of cetak" source="phpDocumentor.file.PPC:ERR-50015"/>
+    <error line="212" severity="error" message="No summary for method cetak()" source="phpDocumentor.file.PPC:ERR-50008"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_lingkungan_print.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="transaksi\views\pendaftaran\pendaftaran_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+  <file name="master\views\parameter\parameter_view.php">
+    <error line="0" severity="error" message="No summary was found for this file" source="phpDocumentor.file.PPC:ERR-50000"/>
+  </file>
+</checkstyle>

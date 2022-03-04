@@ -1,0 +1,68 @@
+<?php
+if (!defined('BASEPATH'))
+    exit('No direct script access allowed');
+
+class Dokter_model extends CI_Model
+{
+    function __construct(){
+        parent::__construct();
+        $this->table  = 'm_dokter';
+    }
+
+	function get_all()
+    {
+        $sql ='select * from '.$this->table.' where aktif="Y" Order by nm_dokter Desc';
+        $query = $this->db->query($sql);
+        return $query->result();
+    }
+
+    function get_all_detail($id)
+    {
+        $sql ='select * from '.$this->table.' where aktif="Y" and id_dokter="'.$id.'"';
+        $query = $this->db->query($sql);
+        return $query->row();
+    }
+
+    function act_form(){
+
+        $id_dokter          = $this->security->xss_clean($this->db->escape_str($this->input->post('id_dokter')));
+        $nama               = $this->security->xss_clean($this->db->escape_str($this->input->post('nama')));
+        $alamat             = $this->security->xss_clean($this->db->escape_str($this->input->post('alamat')));
+
+        $sql    = "INSERT INTO m_dokter (id_dokter,nm_dokter,alamat,aktif)VALUES('".$id_dokter."','".$nama."','".$alamat."','Y')";
+
+        $query = $this->db->query($sql);
+        
+        if ($query === false){
+            return "ERROR INSERTT";
+        }else{
+            return $query; 
+        }
+    }
+
+    function act_edit(){
+
+        $id_dokter          = $this->security->xss_clean($this->db->escape_str($this->input->post('id_dokter')));
+        $id_dokter_old      = $this->security->xss_clean($this->db->escape_str($this->input->post('id_dokter_old')));
+        $nama               = $this->security->xss_clean($this->db->escape_str($this->input->post('nama')));
+        $alamat             = $this->security->xss_clean($this->db->escape_str($this->input->post('alamat')));
+
+        $sql    = "UPDATE m_dokter SET id_dokter='".$id_dokter."',nm_dokter='".$nama."',alamat='".$alamat."' WHERE id_dokter='".$id_dokter_old."'";
+
+        $query = $this->db->query($sql);
+        
+        if ($query === false){
+            return "ERROR INSERTT";
+        }else{
+            return $query; 
+        }
+    }
+
+    function act_delete(){
+        $sql = "UPDATE ".$this->table." SET aktif = 'N' WHERE id_dokter = '".$this->input->post('id_dokter')."'";
+        $query = $this->db->query($sql);
+        return $query;
+    }
+
+}
+?>
